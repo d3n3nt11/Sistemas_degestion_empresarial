@@ -2,7 +2,7 @@
 **Gestión digital de aceituna para cooperativas agrícolas andaluzas**  
 *Transparencia, trazabilidad y soberanía tecnológica desde el olivar.*
 
-![OlivoSys Logo](docs/logo-placeholder.png) *(imagina el logotipo descrito arriba)*
+![OlivoSys Logo](olivosyslogo.webp) 
 
 ## ¿Qué es?
 OlivoSys es un sistema de gestión **libre y de código abierto** para cooperativas olivareras. Digitaliza todo el flujo desde la recolección en parcela hasta la trazabilidad del aceite final:
@@ -29,10 +29,3 @@ OlivoSys se distribuye **gratuitamente bajo licencia Apache 2.0**, pero ofrecemo
 
 
 
-
-➡️ Contacto: contacto@olivosys.es  
-🔗 [Web en construcción] | [Twitter/X @OlivoSys] | [Demo (próximamente)]
-
----
-
-*OlivoSys — Por un olivar más justo, conectado y sostenible.*
